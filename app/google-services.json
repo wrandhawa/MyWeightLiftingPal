@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480166640357",
+    "project_id": "myweightliftingpal",
+    "storage_bucket": "myweightliftingpal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480166640357:android:4c2008907e6edfb37ab20c",
+        "android_client_info": {
+          "package_name": "com.example.myweightliftingpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480166640357-hrgf8sta6e6tebrptgj31ro35rl11ecm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHLEx5owPVEZyySyiIuJeoSc5nm5VAaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480166640357-hrgf8sta6e6tebrptgj31ro35rl11ecm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
